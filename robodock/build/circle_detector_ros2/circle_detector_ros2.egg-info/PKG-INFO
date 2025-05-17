@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: circle-detector-ros2
+Version: 0.1.0
+Summary: 使用 Realsense 和 OpenCV 检测白色圆形电磁铁并发布三维坐标
+Home-page: UNKNOWN
+Maintainer: 你的名字
+Maintainer-email: your@email.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

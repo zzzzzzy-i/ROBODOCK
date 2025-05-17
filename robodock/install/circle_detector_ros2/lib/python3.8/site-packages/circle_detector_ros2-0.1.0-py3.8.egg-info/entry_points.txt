@@ -1,0 +1,3 @@
+[console_scripts]
+circle_detector_node = circle_detector_ros2.circle_detector_node:main
+
